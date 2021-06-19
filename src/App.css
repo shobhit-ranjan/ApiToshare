@@ -1,0 +1,23 @@
+body {
+  background-color: antiquewhite;
+}
+
+.App {
+  background-color: aqua;
+  min-height: 50px;
+  width: 400px;
+  margin: 40px auto;
+}
+
+#react-paginate ul {
+  display: inline-block;
+  padding-left: 65px;
+  padding-right: 15px;
+}
+
+#react-paginate li {
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 15px;
+  border: 1px solid;
+}
