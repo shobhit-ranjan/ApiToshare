@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ApiToshare/static/css/main.1ecd9793.chunk.css",
+    "main.js": "/ApiToshare/static/js/main.ed75a9bb.chunk.js",
+    "main.js.map": "/ApiToshare/static/js/main.ed75a9bb.chunk.js.map",
+    "runtime-main.js": "/ApiToshare/static/js/runtime-main.d2137d88.js",
+    "runtime-main.js.map": "/ApiToshare/static/js/runtime-main.d2137d88.js.map",
+    "static/js/2.b6d8e8b5.chunk.js": "/ApiToshare/static/js/2.b6d8e8b5.chunk.js",
+    "static/js/2.b6d8e8b5.chunk.js.map": "/ApiToshare/static/js/2.b6d8e8b5.chunk.js.map",
+    "static/js/3.00e757cf.chunk.js": "/ApiToshare/static/js/3.00e757cf.chunk.js",
+    "static/js/3.00e757cf.chunk.js.map": "/ApiToshare/static/js/3.00e757cf.chunk.js.map",
+    "index.html": "/ApiToshare/index.html",
+    "static/css/main.1ecd9793.chunk.css.map": "/ApiToshare/static/css/main.1ecd9793.chunk.css.map",
+    "static/js/2.b6d8e8b5.chunk.js.LICENSE.txt": "/ApiToshare/static/js/2.b6d8e8b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2137d88.js",
+    "static/js/2.b6d8e8b5.chunk.js",
+    "static/css/main.1ecd9793.chunk.css",
+    "static/js/main.ed75a9bb.chunk.js"
+  ]
+}
